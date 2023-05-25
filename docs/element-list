@@ -1,0 +1,4 @@
+com.qsige.spring.customersdata
+com.qsige.spring.customersdata.config
+com.qsige.spring.customersdata.entity
+com.qsige.spring.customersdata.repository

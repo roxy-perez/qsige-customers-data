@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.qsige.spring.customersdata"},{"l":"com.qsige.spring.customersdata.config"},{"l":"com.qsige.spring.customersdata.model"},{"l":"com.qsige.spring.customersdata.repository"}];updateSearchResults();
